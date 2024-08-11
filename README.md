@@ -1,11 +1,11 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> Dns Music Bot <\> </h1>
 
 <p align="center">
   <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamInflex/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MISH0009/DnsxMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TeamInflex/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/TeamInflex/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamInflex/InflexMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MISH0009/DnsxMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   git clone https://github.com/MISH0009/DnsxMusicBot && cd DnsxMusicBot
    ```
 6. **Install Requirements**
    ```bash
@@ -108,10 +108,10 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicB
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://t.me/Dns_Official_Channel">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://t.me/DNS_NETWORK">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -122,7 +122,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 We Welcome Contributions To The Inflex Music Bot Project. If You'd Like To Contribute, Please Follow These Steps :
 
-1. [Fork The Repository.](https://github.com/TeamInflex/InflexMusicBot/fork)
+1. [Fork The Repository.](https://github.com/MISH0009/DnsxMusicBot/fork)
 2. Create A New Branch With A Meaningful Name.
 3. Make Your Changes And Commit Them With A Descriptive Commit Message.
 4. Open A Pull Request Against Our `main` Branch.
@@ -141,4 +141,3 @@ This project Is Licensed Under The MIT License. For More Details, See The [LICEN
 ### 🙏 Acknowledgements
 
 Special Thanks To All The Contributors , Supporters , And Users Of The Inflex Music Bot. Your Feedback And Support Keep Us Going !
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) , [AviaxMusic](https://github.com/TeamAviax/AviaxMusic) And [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For Their Source Codes.
